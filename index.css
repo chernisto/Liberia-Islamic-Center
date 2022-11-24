@@ -41,7 +41,7 @@ header ul{
     background: black;
     /* display: none; */
     position: absolute;
-    top: 4.6%;
+    top: 4.5%;
 }
 
 ul a{
@@ -51,4 +51,5 @@ ul a{
 
 ul li{
     list-style-type: none;
+    letter-spacing: 0.5rem;
 }
